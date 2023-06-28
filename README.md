@@ -1,5 +1,7 @@
 # ZCAT
-Scalable multi-objective test problems
+Scalable multi-objective test problems according to the description of the paper:
+
+S. Zapotecas-Martínez, C.A. Coello Coello, H.E. Aguirre & K. Tanaka (2023). Challenging test problems for multi-and many-objective optimization. Swarm and Evolutionary Computation, Volume 81, 101350, ISSN 2210-6502. https://doi.org/10.1016/j.swevo.2023.101350
 
 This source code presents the implementation of the ZCAT multi-objective test 
 problems according to the description given in the paper:
